@@ -1,0 +1,8 @@
+/* Porsche Fonts */
+@font-face {
+  font-family: 'Porsche Font Regular';
+  src:
+    url('https://nhoccamelot.github.io/Porsche_Font/porsche-next-w-la-regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
